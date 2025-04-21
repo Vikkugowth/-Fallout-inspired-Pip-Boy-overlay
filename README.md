@@ -1,1 +1,1 @@
-# -Fallout-inspired-Pip-Boy-overlay
+Designed and implemented a Fallout-inspired Pip-Boy overlay with fully interactive stats and inventory systems. Utilized HTML5, CSS3, Bootstrap for responsive design, and vanilla JavaScript for real-time UI updates and functionality.
